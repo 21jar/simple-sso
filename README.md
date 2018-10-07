@@ -2,7 +2,6 @@
 ### 0.2版本开始...
 
 
-两个问题
-1.http://localhost:8080/b/test?token=f95d60c6-54ea-4f9b-bb7f-013cca9cc
-token随意编写就可以登录成功，没有校验token的正确
-2.如何获取用户信息
+### 两个问题
+### 1.http://localhost:8080/b/test?token=f95d60c6-54ea-4f9b-bb7f-013cca9cc，token随意编写就可以登录成功，没有校验token的正确
+### 2.如何获取用户信息
